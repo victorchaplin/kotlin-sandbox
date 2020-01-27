@@ -1,5 +1,4 @@
 # IntelliJ config files
-*.iml
 /.idea
 
 # Build output
