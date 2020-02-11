@@ -44,3 +44,7 @@
 - in kotlin, properties cannot be accessed directly from the outside of the file, so they do not need to be private
 - getters and setters MUST BE declared right after the property
 - data classes are used to store state, they have equals(), hashCode(), toString() and copy() already defined
+- functions default return type is Unit, its similar to void
+- functions can be declared in one line, similar to javascript
+- kotlin has a spread operator '*', used to unpack arrays, similar to javascript
+- to declare an extension funcion, add the desired type when declaring the function, i.e. 
