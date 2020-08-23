@@ -49,7 +49,7 @@ fun main() {
 
     val mixedArray = arrayOf("hello", 22, BigDecimal(10.5), 'a')
     println(mixedArray.contentToString())
-    println(mixedArray is Array<Any>)
+    println(mixedArray is Array<*>)
 
     val myIntArray = intArrayOf(9, 4, 2, 6, 7)
     val someOtherArray = IntArray(5)

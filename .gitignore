@@ -3,6 +3,7 @@
 
 # Build output
 /out
+/build
 
 # Compiled class file
 *.class

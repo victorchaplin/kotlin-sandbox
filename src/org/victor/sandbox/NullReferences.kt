@@ -4,7 +4,7 @@ fun main() {
     val nullStr: String? = null
     val str: String? = "This is not null"
 //    str.toUpperCase() // does not work because str is nullable
-    if (str != null) {
+        if (str != null) {
         str.toUpperCase() // works because null is checked
     }
 
