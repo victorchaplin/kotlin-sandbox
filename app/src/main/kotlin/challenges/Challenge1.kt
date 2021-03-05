@@ -1,4 +1,4 @@
-package org.victor.challenges
+package challenges
 
 fun main() {
     val hello1 = "Hello"

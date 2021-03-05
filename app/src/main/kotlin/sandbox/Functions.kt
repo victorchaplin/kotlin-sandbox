@@ -1,4 +1,4 @@
-package org.victor.sandbox
+package sandbox
 
 fun main() {
     println(labelMultiply(3, 4, "The result is:"))

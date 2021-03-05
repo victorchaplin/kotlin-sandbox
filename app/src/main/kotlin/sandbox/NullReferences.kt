@@ -1,4 +1,4 @@
-package org.victor.sandbox
+package sandbox
 
 fun main() {
     val nullStr: String? = null

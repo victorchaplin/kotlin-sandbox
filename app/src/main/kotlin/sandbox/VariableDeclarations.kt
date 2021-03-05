@@ -1,4 +1,4 @@
-package org.victor.sandbox
+package sandbox
 
 // creating a type alias
 typealias EmployeeSet = Set<Employee>

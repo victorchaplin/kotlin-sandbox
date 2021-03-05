@@ -1,4 +1,4 @@
-package org.victor.java;
+package java;
 
 public class Interop {
 

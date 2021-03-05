@@ -1,6 +1,6 @@
-package org.victor.sandbox
+package sandbox
 
-val MY_CONSTANT = 200
+const val MY_CONSTANT = 200
 
 fun main() {
     println(MY_CONSTANT)

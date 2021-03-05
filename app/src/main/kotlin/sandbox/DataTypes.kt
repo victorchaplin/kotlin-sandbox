@@ -1,4 +1,4 @@
-package org.victor.sandbox
+package sandbox
 
 import java.math.BigDecimal
 

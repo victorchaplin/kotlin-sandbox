@@ -1,4 +1,4 @@
-package org.victor.sandbox
+package sandbox
 
 class Utils {
     fun upperFirstAndLast(str: String): String {

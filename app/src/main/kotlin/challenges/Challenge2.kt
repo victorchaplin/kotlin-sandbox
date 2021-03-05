@@ -1,6 +1,6 @@
-package org.victor.challenges
+package challenges
 
-import org.victor.java.Interop
+import java.Interop
 
 fun main() {
     val float1: Float? = -3847.384f
